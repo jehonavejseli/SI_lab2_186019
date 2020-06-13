@@ -6,5 +6,7 @@
 
 Група на код : 6
 
+## Графот
+
 ![graph](https://github.com/jehonavejseli/SI_lab2_186019/blob/master/graph.png)
 

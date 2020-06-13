@@ -6,7 +6,11 @@
 
 Група на код : 6
 
-## Графот
+## Control Flow Graph
 
 ![graph](https://github.com/jehonavejseli/SI_lab2_186019/blob/master/graph.png)
+
+![code] (https://github.com/jehonavejseli/SI_lab2_186019/blob/master/code.png)
+
+
 
